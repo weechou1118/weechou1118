@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Let's do something fun!
+### Let's do something fun!🐱
 
 <!--
 **weech0u/weech0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
